@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词</string>
+				<key>index</key>
+				<string>连按, double-click, 点按, click, clicking, 跟踪, track, tracking, 拖移, drag, dragging, 较快, faster, 速度, speed, 慢, slow, slowing, 光标, cursor, 箭头, arrow, 指针, pointer, 较慢, slower</string>
+				<key>title</key>
+				<string>触控板速度, Trackpad speed</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词</string>
+				<key>index</key>
+				<string>右, right, 右击, 右键点按, right-click, 两, 二, two, 三, three, 四, four, 手指, fingers, 触碰, 触摸, touch, 滚动, scroll, 拖移, drag, 轻点, tap, 合拢, 收缩, 捏, pinch, 缩放, zoom, 旋转, rotate, 张开, spread, 扫动, 轻扫, swipe, touching, scrolling, dragging, tapping, pinching, zooming, rotating, swiping, spreading, 全屏幕, full-screen, fullscreen, full screen, 桌面, Desktop</string>
+				<key>title</key>
+				<string>触控板手势, Trackpad gestures</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>可本地化的索引词</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>触控板缩放, Trackpad zooming</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>用力按下, deep press, 触感, haptic, 反馈, feedback, 数据检测器, data detectors, 查询, look up, 查找, lookup</string>
+				<key>title</key>
+				<string>用力点按, Force click</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

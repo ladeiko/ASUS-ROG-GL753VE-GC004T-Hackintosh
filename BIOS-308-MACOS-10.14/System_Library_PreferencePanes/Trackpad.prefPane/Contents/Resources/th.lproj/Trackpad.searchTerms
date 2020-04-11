@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>คลิกสองครั้ง, คลิก, ติดตาม, ลาก, เร็วขึ้น, ความเร็ว, ช้า, เคอร์เซอร์, ลูกศร, ตัวชี้, การคลิก, การติดตาม, การลาก, ช้าลง, ทำให้ช้า, ตัวชี้เมาส์</string>
+				<key>title</key>
+				<string>ความเร็วของแทร็คแพด</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ขวา, คลิกรอง (คลิกขวา), สอง, สาม, สี่, นิ้ว, สัมผัส, เลื่อน, ลาก, แตะ, หนีบนิ้ว, กางนิ้ว, ซูม, หมุน, ปัดนิ้ว, การสัมผัส, การเลื่อน, การลาก, การแตะ, การหนีบนิ้ว, การกางนิ้ว, การซูม, การหมุน, การปัดนิ้ว, การกระจาย, เต็มหน้าจอ, หน้าจอเต็ม, โหมดเต็มหน้าจอ, เดสก์ท็อป</string>
+				<key>title</key>
+				<string>คำสั่งนิ้วของแทร็คแพด</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>การซูมด้วยแทร็คแพด</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>กดแบบค้าง, แบบสัมผัส, การตอบสนอง, ตัวตรวจจับข้อมูล, ค้นหา, ค้นดู</string>
+				<key>title</key>
+				<string>การคลิกลงน้ำหนัก</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

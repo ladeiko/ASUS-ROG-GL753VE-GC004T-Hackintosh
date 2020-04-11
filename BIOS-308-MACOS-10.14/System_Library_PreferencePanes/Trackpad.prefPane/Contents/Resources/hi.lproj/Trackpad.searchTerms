@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackpadTab</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>डबल-क्लिक, क्लिक, ट्रैक, ड्रैग, अधिक तेज़, गति, धीमा, कर्सर, तीर, प्वाइंटर, क्लिकिंग, ट्रैकिंग, ड्रैगिंग, अधिक धीमा, धीमा हो रहा है</string>
+				<key>title</key>
+				<string>ट्रैकपैड गति</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string>दायाँ, राइट-क्लिक, दो, तीन, चार, उँगलियाँ, टच करें, स्क्रोल करें, ड्रैग करें, टैप करें, पिंच करें, ज़ूम करें, घुमाएँ, फैलाएँ, स्वाइप करें, टच किया जा रहा है, स्क्रोल किया जा रहा है, ड्रैग किया जा रहा है, टैप किया जा रहा है, पिंच किया जा रहा है, ज़ूम किया जा रहा है, घुमाया जा रहा है, स्वाइप किया जा रहा है, फैलाया जा रहा है, फ़ुल स्क्रीन, फ़ुल स्क्रीन, डेस्कटॉप</string>
+				<key>title</key>
+				<string>ट्रैकपैड जेस्चर</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>अनुवाद योग्य सूची शब्द</string>
+				<key>index</key>
+				<string></string>
+				<key>title</key>
+				<string>ट्रैकपैड ज़ूमिंग</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<string>लंबे समय तक दबाना, हैप्टिक, फ़ीडबैक, डेटा डिटेक्टर, तलाशें, अवलोकन</string>
+				<key>title</key>
+				<string>फ़ोर्स क्लिक</string>
+			</dict>
+		</array>
+		<key>portableOnly</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

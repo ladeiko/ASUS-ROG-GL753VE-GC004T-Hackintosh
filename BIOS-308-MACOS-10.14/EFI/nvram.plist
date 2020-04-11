@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EFILoginHiDPI</key>
+	<data>
+	AAAAAA==
+	</data>
+	<key>EmuVariableUefiPresent</key>
+	<data>
+	WWVz
+	</data>
+	<key>LocationServicesEnabled</key>
+	<data>
+	AQ==
+	</data>
+	<key>SystemAudioVolume</key>
+	<data>
+	gA==
+	</data>
+	<key>SystemAudioVolumeDB</key>
+	<data>
+	gA==
+	</data>
+	<key>backlight-level</key>
+	<data>
+	/gI=
+	</data>
+	<key>bluetoothActiveControllerInfo</key>
+	<data>
+	byFcCgAAAABgFBhPMvJpmg==
+	</data>
+	<key>csr-active-config</key>
+	<data>
+	ZwAAAA==
+	</data>
+	<key>flagstate</key>
+	<data>
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+	</data>
+	<key>fmm-computer-name</key>
+	<data>
+	bWFjYm9vaw==
+	</data>
+	<key>security-mode</key>
+	<string>none</string>
+	<key>specialbootdevice</key>
+	<data>
+	AgEMANBBAwoAAAAAAQEGAAAXAxIKAAAA//8AAAQBKgACAAAAKEAGAAAAAABg8sgdAAAA
+	ANk6u6jQ78FNi4AqXDsmZlMCAgQDJAD3/HS+fAvzSZFHAfQELmhCT2O8RHq6YTWGN6Zt
+	YNkIWn//BAA=
+	</data>
+</dict>
+</plist>

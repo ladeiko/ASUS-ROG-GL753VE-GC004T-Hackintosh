@@ -1,0 +1,51 @@
+
+Clover EFI installer log - Tue Dec 17 20:37:43 +03 2019
+Installer version: v2.5k r5099 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk0
+   1:                  Apple_HFS DATA                    2.0 TB     disk0s2
+
+/dev/disk1 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *128.0 GB   disk1
+   1:           Windows Recovery                         523.2 MB   disk1s1
+   2:                        EFI NO NAME                 104.9 MB   disk1s2
+   3:         Microsoft Reserved                         16.8 MB    disk1s3
+   4:       Microsoft Basic Data                         127.4 GB   disk1s4
+
+/dev/disk2 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *256.1 GB   disk2
+   1:                        EFI EFI                     209.7 MB   disk2s1
+   2:                 Apple_APFS Container disk3         255.9 GB   disk2s2
+
+/dev/disk3 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +255.9 GB   disk3
+                                 Physical Store disk2s2
+   1:                APFS Volume OSX                     225.3 GB   disk3s1
+   2:                APFS Volume Preboot                 45.0 MB    disk3s2
+   3:                APFS Volume Recovery                510.4 MB   disk3s3
+   4:                APFS Volume VM                      1.1 GB     disk3s4
+
+Target volume /Volumes/OSX on disk3 is APFS on physical store disk2s2
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/OSX/EFIROOTDIR/EFI folder to /Volumes/OSX/EFI-Backups/r4920/2019-12-17-20h37/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+======================================================
+Installing RC Scripts
+
+Installing RC scripts on target volume '/'
+
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
